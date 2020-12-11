@@ -5,15 +5,15 @@
     <link>https://samuelstalder.github.io/tags/first/</link>
     <description>Recent content in first on Tech-Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 09 Dec 2020 21:06:36 +0100</lastBuildDate><atom:link href="https://samuelstalder.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D-Printing</title>
-      <link>https://samuelstalder.github.io/posts/3d-printing/3d-printing/</link>
+      <link>https://samuelstalder.github.io/post/3d-printing/</link>
       <pubDate>Wed, 09 Dec 2020 21:06:36 +0100</pubDate>
       
-      <guid>https://samuelstalder.github.io/posts/3d-printing/3d-printing/</guid>
-      <description>Mein Setup Creality 3D Ender 3 Der Drucker kommt als einfacher Bausatz. Das bedeutet, der Drucker besteht aus wenigen Einzelteilen und lässt sich innerhalb einer Viertelstunde einfach zusammenbauen. Die Montage ist dabei kinderleicht und auch über die beiliegende Anleitung sowie Videos (siehe unten) gut dokumentiert. Der Creality3D Ender 3 bietet nicht nur eine hohe Druckauflösung und Präzision, er besitzt auch viele kleine Funktionen, die das Drucken mit dem Gerät deutlich komfortabler und einfacher machen.</description>
+      <guid>https://samuelstalder.github.io/post/3d-printing/</guid>
+      <description>Mein Setup Creality 3D Ender 3 Der Drucker kommt als einfacher Bausatz. Das bedeutet, der Drucker besteht aus wenigen Einzelteilen und lässt sich innerhalb einer Viertelstunde einfach zusammenbauen. Die Montage ist dabei kinderleicht und auch über die beiliegende Anleitung sowie Videos (siehe unten) gut dokumentiert. Der Creality3D Ender 3 bietet nicht nur eine hohe Druckauflösung und Präzision, er besitzt auch viele kleine Funktionen, die das Drucken mit dem Gerät deutlich komfortabler und einfacher machen. Dadurch ist die gesamte Arbeitslautstärke geringer. Ein weiterer positiver Nebeneffekt ist, dass die hochwertigen Treiber auch die Mechanik präzise und mit hoher Genauigkeit ansteuern. Das Nivellieren (Kalibrierung des Druckbetts) ist, mithilfe von grossen Rädelschrauben, einfach durchführbar.</description>
     </item>
     
   </channel>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://samuelstalder.github.io/sitemap.xml

@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samuelstalder.github.io/posts/3d-printing/3d-printing/</loc>
+    <loc>https://samuelstalder.github.io/post/3d-printing/</loc>
     <lastmod>2020-12-09T21:06:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samuelstalder.github.io/posts/about/</loc>
+    <loc>https://samuelstalder.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://samuelstalder.github.io/posts/3d-printing/printings_from_thingiverse/</loc>
+    <loc>https://samuelstalder.github.io/post/printings_from_thingiverse/</loc>
     <lastmod>2020-12-09T21:06:36+01:00</lastmod>
   </url>
   
@@ -22,12 +22,7 @@
   </url>
   
   <url>
-    <loc>https://samuelstalder.github.io/posts/</loc>
-    <lastmod>2020-12-09T21:06:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelstalder.github.io/tags/</loc>
+    <loc>https://samuelstalder.github.io/post/</loc>
     <lastmod>2020-12-09T21:06:36+01:00</lastmod>
   </url>
   
@@ -37,7 +32,8 @@
   </url>
   
   <url>
-    <loc>https://samuelstalder.github.io/categories/</loc>
+    <loc>https://samuelstalder.github.io/archives/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

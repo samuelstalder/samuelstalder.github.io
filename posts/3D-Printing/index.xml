@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech-Stuff</title>
-    <link>https://samuelstalder.github.io/</link>
-    <description>Recent content on Tech-Stuff</description>
+    <title>Index on Tech-Stuff</title>
+    <link>https://samuelstalder.github.io/posts/3d-printing/</link>
+    <description>Recent content in Index on Tech-Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Dec 2020 21:06:36 +0100</lastBuildDate><atom:link href="https://samuelstalder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Dec 2020 21:06:36 +0100</lastBuildDate><atom:link href="https://samuelstalder.github.io/posts/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D-Printing</title>
-      <link>https://samuelstalder.github.io/post/3d-printing/</link>
+      <link>https://samuelstalder.github.io/posts/3d-printing/3d-printing/</link>
       <pubDate>Wed, 09 Dec 2020 21:06:36 +0100</pubDate>
       
-      <guid>https://samuelstalder.github.io/post/3d-printing/</guid>
+      <guid>https://samuelstalder.github.io/posts/3d-printing/3d-printing/</guid>
       <description>Mein Setup Creality 3D Ender 3 Der Drucker kommt als einfacher Bausatz. Das bedeutet, der Drucker besteht aus wenigen Einzelteilen und lässt sich innerhalb einer Viertelstunde einfach zusammenbauen. Die Montage ist dabei kinderleicht und auch über die beiliegende Anleitung sowie Videos (siehe unten) gut dokumentiert. Der Creality3D Ender 3 bietet nicht nur eine hohe Druckauflösung und Präzision, er besitzt auch viele kleine Funktionen, die das Drucken mit dem Gerät deutlich komfortabler und einfacher machen. Dadurch ist die gesamte Arbeitslautstärke geringer. Ein weiterer positiver Nebeneffekt ist, dass die hochwertigen Treiber auch die Mechanik präzise und mit hoher Genauigkeit ansteuern. Das Nivellieren (Kalibrierung des Druckbetts) ist, mithilfe von grossen Rädelschrauben, einfach durchführbar.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://samuelstalder.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samuelstalder.github.io/about/</guid>
-      <description>helo index</description>
-    </item>
-    
-    <item>
       <title>Printings from Thingiverse</title>
-      <link>https://samuelstalder.github.io/post/printings_from_thingiverse/</link>
+      <link>https://samuelstalder.github.io/posts/3d-printing/printings_from_thingiverse/</link>
       <pubDate>Wed, 09 Dec 2020 21:06:36 +0100</pubDate>
       
-      <guid>https://samuelstalder.github.io/post/printings_from_thingiverse/</guid>
+      <guid>https://samuelstalder.github.io/posts/3d-printing/printings_from_thingiverse/</guid>
       <description>Hauptsächlich werden als Open-Source- (CC- und GPL)-lizenzierte Dateien veröffentlicht. Die Benutzer wählen den Lizenztyp ihrer Wahl aus und ordnen sie den Daten zu, die sie mit anderen Benutzern teilen wollen (vergleichbar mit dem Lizenzierungssystem bei Vimeo oder Flickr). 3D-Drucker, Laser-Cutter, CNC-Fräsen und andere Maschinen können benutzt werden, um die bei Thingiverse.com zur Verfügung gestellten Dateien physisch umzusetzen. Die Plattform ist weit verbreitet in der internationalen Bastler- und Do-It-Yourself-Szene. Ganz besonderen Erfolg und Bekanntheit erlangte es durch die Web-Communitys, die sich um die 3D-Drucker-Projekte RepRap und MakerBot versammeln.
 Rick and Morty Butter Robot Rick and Morty
 Star wars Droid pack
