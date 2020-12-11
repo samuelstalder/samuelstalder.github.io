@@ -25,17 +25,14 @@
 
 
 <meta property="og:title" content="About" />
-<meta property="og:description" content="helo index" />
+<meta property="og:description" content="example code var sum = 0;var obj = {prop1: 5, prop2: 13, prop3: 8};for each (var item in obj) {sum &#43;= item;}console.log(sum); // logs &quot;26&quot;, which is 5&#43;13&#43;8 example latex-formula $$E = mc^2$$" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://samuelstalder.github.io/about/" />
-<meta property="og:image" content="https://samuelstalder.github.io/img/og.png"/>
 
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://samuelstalder.github.io/img/og.png"/>
-
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="About"/>
-<meta name="twitter:description" content="helo index"/>
+<meta name="twitter:description" content="example code var sum = 0;var obj = {prop1: 5, prop2: 13, prop3: 8};for each (var item in obj) {sum &#43;= item;}console.log(sum); // logs &quot;26&quot;, which is 5&#43;13&#43;8 example latex-formula $$E = mc^2$$"/>
 
 
 
@@ -98,24 +95,28 @@
         <a href="https://samuelstalder.github.io/about/">About</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;0001-01-01</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;2 words</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;No tag</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;0001-01-01</span><span><i class="iconfont icon-time-sharp"></i>&nbsp;1 minute</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;No tag</span>
 
     </div>
     
     
     <div class="post-content markdown-body">
-        <p>helo index</p>
+        <h2 id="example-code">example code</h2>
+<pre><code class="language-js">var sum = 0;
+var obj = {prop1: 5, prop2: 13, prop3: 8};
+
+for each (var item in obj) {
+  sum += item;
+}
+
+console.log(sum); // logs &quot;26&quot;, which is 5+13+8
+</code></pre>
+<h2 id="example-latex-formula">example latex-formula</h2>
+<p>$$E = mc^2$$</p>
 
     </div>
 </article>
 
-
-<div class="license markdown-body">
-    <blockquote>
-        <p>Unless otherwise noted, the content of this site is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-               target="_blank">CC BY-NC-SA 4.0</a>.</p>
-    </blockquote>
-</div>
 
 
 
@@ -172,11 +173,6 @@
     </div>
     
     
-    
-    <div class="sidebar-item sidebar-toc">
-        <h3>TOC</h3>
-        <nav id="TableOfContents"></nav>
-    </div>
     
     
 </aside>
@@ -253,7 +249,7 @@
     <div class="container-lg clearfix">
         <div class="col-12 footer">
             
-            <span>&copy; 2020-2020
+            <span>&copy; 2020
                 <a href="https://samuelstalder.github.io/">Samuel Stalder</a>
                  | <a href="https://github.com/samuelstalder/samuelstalder.github.io/">Source code</a> 
                 | Powered by <a href="https://github.com/amzrk2/hugo-theme-fuji/"
@@ -272,6 +268,15 @@
 
 
 <script defer src="/assets/js/fuji.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" />
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body);"
+></script>
+
 
 
 </body>
